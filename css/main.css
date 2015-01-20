@@ -1,0 +1,41 @@
+@charset "utf-8";
+body,html{
+	font-size:13px;
+	line-height:1.2em;
+	color: #474747;
+}
+a{
+	outline-color:inherit;
+	outline-style:none;
+	outline-width:0;
+}
+a:focus {
+	outline: none;
+	color:#FFFFFF;
+}
+
+.navbar-brand{
+	color:#FFFFFF !important;
+	text-shadow: 1px 1px 1px #CCCCCC !important;
+}
+section.container{
+	display:block;
+}
+#wrapper{
+	display:block;
+	padding: 40px 15px;
+	text-align: center;
+}
+
+#register-link,
+#login-link{
+	display:inline-block;
+	padding-top:10px;
+	cursor: pointer;
+}
+
+
+footer{
+	padding-top:40px;
+	text-align:center;
+}

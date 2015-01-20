@@ -1,0 +1,29 @@
+{
+  "name": "JSappExam",
+  "version": "0.0.1",
+  "description": "JS Application by Vasil Tsintsev",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theroot79/jsapp"
+  },
+  "keywords": [
+    "javascript",
+    "application"
+  ],
+  "author": "Vasil Tsintsev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/theroot79/jsapp/issues"
+  },
+  "homepage": "https://github.com/theroot79/jsapp",
+  "dependencies": {
+    "jquery": "^2.1.3",
+    "mustache": "^1.0.0",
+    "q": "^1.1.2",
+    "shimney-sammy": "^0.7.4"
+  }
+}
